@@ -1,7 +1,7 @@
 # Sliderbeispiele für das Template Bootstrap4 für Modified Shop
 
-Voraussetzung: Das Template "bootstrap4" ist installiert.
-Shopversion kleiner als 2.0.6.0 sein!
+Voraussetzung: Das Template "bootstrap4" ist installiert.<br />
+**Shopversion kleiner als 2.0.6.0 sein!**
 
 ## Bilderslider
 
